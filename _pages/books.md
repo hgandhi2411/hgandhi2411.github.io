@@ -3,9 +3,12 @@ permalink: /books/
 title: "Books"
 ---
 
-After being averse to extracurricular reading for the longest time, I picked it up in 2018. A simple strategy that helped me read more was setting a goal of reading just 5 minutes everyday. This made it easier to start and I ended up reading for longer on some days. With the option of audiobooks, it got even easier 😉! Here is a list of books I have read so far.
+After being averse to extracurricular reading for the longest time, I picked it up in 2018. A simple strategy that helped me read more was setting a goal of reading just 5 minutes everyday. This made it easier to start and I ended up reading for longer on most days. With the option of audiobooks, it got even easier 😉! Here is a list of books I have read so far.
 
 ### 2022 (Completed and Ongoing)
+- A PhD is Not Enough! by Peter Feibelman
+- 7 Habits of Highly Effective People by Stephen Covey
+- Crucial Conversations
 - Psycho Cybernetics by Maxwell Maltz
 - Mindset by Carol Dweck
 - Men are from Mars and Women are from Venus by John Gray

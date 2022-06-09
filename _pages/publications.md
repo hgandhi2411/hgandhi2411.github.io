@@ -4,7 +4,7 @@ title: "Publications"
 ---
 
 **Gandhi, H. A.** & White, A. D. [Explaining structure-activity relationships using locally faithful surrogate models](https://chemrxiv.org/engage/chemrxiv/article-details/62753b1459f0d6f41a8642c4). *ChemRxiv* (**2022**).\
-<img class="pub-img" src="../assets/images/xai.jpg" height="200px">
+<img class="pub-img" src="../assets/images/xai.png" height="300px">
 
 **Gandhi, H. A.<sup>\*</sup>**, Ansari, M.<sup>\*</sup>, Foster, D. G. & White, A. D. [Iterative symbolic regression for learning transport equations](https://aiche.onlinelibrary.wiley.com/doi/abs/10.1002/aic.17695). *AIChE Journal*, e17695 (**2022**).\
 <img class="pub-img" src="../assets/images/al-cfd.jpg" height="200px">
