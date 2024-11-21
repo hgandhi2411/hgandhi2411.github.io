@@ -838,7 +838,7 @@ body:hover .visually-hidden a, body:hover .visually-hidden input, body:hover .vi
 /* Image drope shadow*/
 .pub-img {
   max-width: 100%;
-  max-height: 200px;
+  max-height: 300px;
   margin-bottom: 24px;
   padding: 5px;
   background:#FFF;
