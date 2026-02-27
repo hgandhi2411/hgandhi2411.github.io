@@ -62,8 +62,8 @@ plugins:
 author:
   name   : ""
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Scientist, Machine learning @ [Nurix Tx](https://nurixtx.com). 
-  PhD, Chemical Engineering from [University of Rochester](https://www.hajim.rochester.edu/che/)"
+  bio    : "Scientist, ML @ [Nurix Tx](https://nurixtx.com) <br>
+            PhD, Chemical Engineering @ [University of Rochester](https://www.hajim.rochester.edu/che/)"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
