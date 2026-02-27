@@ -16,10 +16,10 @@
 title: Heta A. Gandhi
 email: heta.gandhi@rochester.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Hi! I am Heta Gandhi, a PhD candidate in Chemical Engineering
-  at the University of Rochester.  My research focuses on applying 
-  Computational Methods and Machine Learning to solve Chemistry 
-  and Chemical Engineering problems.
+  Hi! I am Heta Gandhi, a machine learning scientist at Nurix Therapeutics. 
+  Received my PhD in Chemical Engineering at the University of Rochester.  
+  My research focuses on applying Computational Methods and Machine 
+  Learning to solve Chemistry and Chemical Engineering problems.
 twitter_username: gandhi_heta
 github_username: hgandhi2411
 linkedin_username: hetagandhi
@@ -60,14 +60,14 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Heta A. Gandhi"
+  name   : ""
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "PhD candidate in Chemical Engineering at University of Rochester, 
-  working in the [Whitelab](http://thewhitelab.org/)"
+  bio    : "Scientist, Machine learning @ [Nurix Tx](https://nurixtx.com). 
+  PhD, Chemical Engineering from [University of Rochester](https://www.hajim.rochester.edu/che/)"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
-      url: "https://mailto:heta.gandhi@rochester.edu"
+      url: "https://mailto:heta2411gandhi@gmail.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter"
       url: "https://twitter.com/gandhi_heta"
@@ -85,7 +85,7 @@ footer:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
-      url: "https://mailto:heta.gandhi@rochester.edu"
+      url: "https://mailto:heta2411gandhi@gmail.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter"
       url: "https://twitter.com/gandhi_heta"
