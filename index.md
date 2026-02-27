@@ -14,7 +14,7 @@ Heta earned her PhD in Chemical Engineering from the University of Rochester, un
 
 Read all about Dr. Gandhi's interesting work in the [publications](https://hgandhi2411.github.io/publications/) tab! 
 
-Beyond her research, she seeks out activites that challenge her. Some interests include long distance running, hiking, and reading. 
+Beyond her research, she seeks out activites that challenge her. Some interests include long distance running, hiking, and [reading](https://hgandhi2411.github.io/books/). 
 
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img class="img" src="../assets/images/compchem.png" width="100px">&nbsp;&nbsp;&nbsp;&nbsp;

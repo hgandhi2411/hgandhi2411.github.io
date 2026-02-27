@@ -5,6 +5,15 @@ title: "Books"
 
 After being averse to extracurricular reading for the longest time, I picked it up in 2018. A simple strategy that helped me read more was setting a goal of reading just 5 minutes everyday. This made it easier to start and I ended up reading for longer on most days. With the option of audiobooks, it got even easier 😉! Here is a list of books I have read so far.
 
+### 2026
+- The Worlds I see by Dr. Fei Fei Li
+- Surrounded by Idiots by Thoms Erikson 
+
+### 2025
+- The Art of Thinking Clearly by Rolf Dobelli
+- Becoming by Michelle Obama
+- Think Again by Adam Grant
+
 ### 2022 (Completed and Ongoing)
 - A PhD is Not Enough! by Peter Feibelman
 - 7 Habits of Highly Effective People by Stephen Covey
